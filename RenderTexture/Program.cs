@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Threading;
 using SDL2;
 
-namespace SdlExample
+namespace RenderTexture
 {
     class Program
     {
