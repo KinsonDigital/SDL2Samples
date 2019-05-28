@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using SDL2;
 
-namespace _24
+namespace FramesPerSecond
 {
     //Texture wrapper class
     class LTexture

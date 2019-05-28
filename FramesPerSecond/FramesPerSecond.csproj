@@ -7,8 +7,8 @@
     <ProjectGuid>{35E28377-0C2E-4BAD-8664-6F01B085A31E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_24</RootNamespace>
-    <AssemblyName>24</AssemblyName>
+    <RootNamespace>FramesPerSecond</RootNamespace>
+    <AssemblyName>FramesPerSecond</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
